@@ -11,7 +11,7 @@
 
 <div class="container">
     <div id="jdlaccl" style="font-size: 36px; color: brown;">
-        Harber Web
+        Harber Web.
     </div>
     <div class="card shadow-sm mb-5 bg-black rounded">
         <div class="card-body">
